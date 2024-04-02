@@ -1,6 +1,8 @@
 # Pull_shark
 
-developer program
-badge play
+- developer program
+
+- badge play
+
 
 
